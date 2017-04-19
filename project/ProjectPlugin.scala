@@ -29,7 +29,9 @@ object ProjectPlugin extends AutoPlugin {
         'scalacheck    -> "0.4.1-SNAPSHOT",
         'scalatutorial -> "0.4.1-SNAPSHOT",
         'fpinscala     -> "0.4.1-SNAPSHOT",
-        'circe         -> "0.4.1-SNAPSHOT"
+        'circe         -> "0.4.1-SNAPSHOT",
+        'fetch         -> "0.4.0-SNAPSHOT",
+        'monocle       -> "0.4.0-SNAPSHOT"
       ) ++ Map(
         // JVM Versions
         'bootstrap      -> "3.3.7",
